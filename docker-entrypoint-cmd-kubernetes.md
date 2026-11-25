@@ -25,3 +25,6 @@ spec:
 
 -   Docker `ENTRYPOINT` → Kubernetes `command`
 -   Docker `CMD` → Kubernetes `args`
+
+wife Entry with husband command
+cmd --- args 
